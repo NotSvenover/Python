@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf8120ec-d8d9-449d-af45-80a2812f06bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,61 +21,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000054541442" />
-      <entry key="MS500" value="1.0222507947837187" />
-      <entry key="S2" value="1.4102921018617378" />
-      <entry key="S5" value="2.208129984894852" />
-      <entry key="S10" value="3.432768855322948" />
-      <entry key="S30" value="5.884110831615585" />
-      <entry key="S60" value="8.06632069979674" />
-      <entry key="M2" value="11.821932057273724" />
-      <entry key="M5" value="18.477405861180113" />
-      <entry key="M10" value="22.742447248621424" />
-      <entry key="M15" value="24.56167433581599" />
-      <entry key="M30" value="26.633776409976655" />
-      <entry key="H1" value="27.777269663230307" />
-      <entry key="H2" value="28.37834700403887" />
-      <entry key="H4" value="28.686551875735358" />
-      <entry key="D1" value="28.947390230234276" />
-      <entry key="W1" value="28.992475239511524" />
+      <entry key="MS100" value="1.2970154819919567E-39" />
+      <entry key="MS500" value="1.6695100280555716E-8" />
+      <entry key="S2" value="0.011367212520304941" />
+      <entry key="S5" value="0.16881094407274572" />
+      <entry key="S10" value="0.4533081180118217" />
+      <entry key="S30" value="1.1748144165151786" />
+      <entry key="S60" value="2.262721612275783" />
+      <entry key="M2" value="6.579631286270399" />
+      <entry key="M5" value="24.00224742943487" />
+      <entry key="M10" value="55.8889842033185" />
+      <entry key="M15" value="82.99721666970136" />
+      <entry key="M30" value="132.15342803552136" />
+      <entry key="H1" value="171.29362463435243" />
+      <entry key="H2" value="196.32233600572854" />
+      <entry key="H4" value="210.5239561659936" />
+      <entry key="D1" value="223.32691776436266" />
+      <entry key="W1" value="225.61576356285093" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.138174778025565E-34" />
-      <entry key="MS500" value="2.3481045791996734E-7" />
-      <entry key="S2" value="0.02201300635027074" />
-      <entry key="S5" value="0.2173060216190697" />
-      <entry key="S10" value="0.46625425501490325" />
-      <entry key="S30" value="0.832047438808533" />
-      <entry key="S60" value="1.3288505821618204" />
-      <entry key="M2" value="2.481834582862193" />
-      <entry key="M5" value="4.41784889846033" />
-      <entry key="M10" value="5.524082534183306" />
-      <entry key="M15" value="5.969396524252443" />
-      <entry key="M30" value="6.4597904868144065" />
-      <entry key="H1" value="6.723353189718828" />
-      <entry key="H2" value="6.859999922438449" />
-      <entry key="H4" value="6.929575533309077" />
-      <entry key="D1" value="6.988203188680332" />
-      <entry key="W1" value="6.998313280611581" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000107002203207" />
+      <entry key="S2" value="1.0581511487435544" />
+      <entry key="S5" value="1.4255231105728314" />
+      <entry key="S10" value="2.2555058057332538" />
+      <entry key="S30" value="4.878586788823755" />
+      <entry key="S60" value="6.623582661062958" />
+      <entry key="M2" value="8.838692107867232" />
+      <entry key="M5" value="14.545865789393918" />
+      <entry key="M10" value="21.267698784242295" />
+      <entry key="M15" value="25.977783488603862" />
+      <entry key="M30" value="33.9917137469952" />
+      <entry key="H1" value="40.25012511082335" />
+      <entry key="H2" value="44.24788762800534" />
+      <entry key="H4" value="46.51977721562047" />
+      <entry key="D1" value="48.57123252931176" />
+      <entry key="W1" value="48.93835764253909" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460576517793409" />
-      <entry key="MS500" value="1.0108850601711912" />
-      <entry key="S2" value="1.4189742963227416" />
-      <entry key="S5" value="2.361729996462018" />
-      <entry key="S10" value="3.7967239575601868" />
-      <entry key="S30" value="6.618599059067622" />
-      <entry key="S60" value="9.311325387470914" />
-      <entry key="M2" value="14.226974128596957" />
-      <entry key="M5" value="22.842088243151956" />
-      <entry key="M10" value="28.233618953805735" />
-      <entry key="M15" value="30.50743830236294" />
-      <entry key="M30" value="33.080820428752375" />
-      <entry key="H1" value="34.49399991326836" />
-      <entry key="H2" value="35.23497075625622" />
-      <entry key="H4" value="35.61442285611051" />
-      <entry key="D1" value="35.935307014310844" />
-      <entry key="W1" value="35.99074754821631" />
+      <entry key="MS100" value="0.013508394239185395" />
+      <entry key="MS500" value="0.42279147483842017" />
+      <entry key="S2" value="0.8653161739483628" />
+      <entry key="S5" value="1.4739339214941756" />
+      <entry key="S10" value="2.607537685895541" />
+      <entry key="S30" value="5.9773769428985455" />
+      <entry key="S60" value="8.832886162650095" />
+      <entry key="M2" value="15.377497244002186" />
+      <entry key="M5" value="38.51387454673989" />
+      <entry key="M10" value="77.12721152667726" />
+      <entry key="M15" value="108.94853246976915" />
+      <entry key="M30" value="166.1252500090605" />
+      <entry key="H1" value="211.53092024803297" />
+      <entry key="H2" value="240.56283788127854" />
+      <entry key="H4" value="257.0397572232616" />
+      <entry key="D1" value="271.89744427479576" />
+      <entry key="W1" value="274.55401922850587" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -88,26 +87,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Caculator2&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/svenh/Desktop/Projecten/Python/Caculator&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "Caculator2",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/svenh/Desktop/Projecten/Python/Caculator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Caculator" />
@@ -165,16 +164,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
